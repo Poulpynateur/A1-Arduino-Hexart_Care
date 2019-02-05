@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1510746386 source:f:\cesi\annee 1\_project\codeblock\projet_1\action.c
+	"donnees.h"
+	"action.h"
+
+1510676074 source:f:\cesi\annee 1\_project\codeblock\projet_1\donnees.c
+	"donnees.h"
+
+1510672350 source:f:\cesi\annee 1\_project\codeblock\projet_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"action.h"
+	"menu.h"
+
+1510739842 source:f:\cesi\annee 1\_project\codeblock\projet_1\menu.c
+	"menu.h"
+
+1510676066 f:\cesi\annee 1\_project\codeblock\projet_1\donnees.h
+	<stdlib.h>
+	<stdio.h>
+
+1510649609 f:\cesi\annee 1\_project\codeblock\projet_1\action.c
+	"donnees.h"
+	"action.h"
+
+1510739871 f:\cesi\annee 1\_project\codeblock\projet_1\action.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
+1510673601 f:\cesi\annee 1\_project\codeblock\projet_1\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"action.h"
+
+1510822294 source:g:\projet_1 final\code\m4\affichage\donnees.c
+	"donnees.h"
+
+1510676068 g:\projet_1 final\code\m4\affichage\donnees.h
+	<stdlib.h>
+	<stdio.h>
+
+1510672352 source:g:\projet_1 final\code\m4\affichage\main.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"action.h"
+	"menu.h"
+
+1510739872 g:\projet_1 final\code\m4\affichage\action.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
+1510673602 g:\projet_1 final\code\m4\affichage\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"action.h"
+
+1510739844 source:g:\projet_1 final\code\m4\affichage\menu.c
+	"menu.h"
+
+1510825996 source:g:\projet_1 final\code\m4\affichage\action.c
+	"donnees.h"
+	"action.h"
+
+1510923244 source:g:\projet_1_final\code\m4\affichage\action.c
+	"donnees.h"
+	"action.h"
+
+1510847420 g:\projet_1_final\code\m4\affichage\donnees.h
+	<stdlib.h>
+	<stdio.h>
+
+1510739872 g:\projet_1_final\code\m4\affichage\action.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
+1510672352 source:g:\projet_1_final\code\m4\affichage\main.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"action.h"
+	"menu.h"
+
+1510673602 g:\projet_1_final\code\m4\affichage\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"action.h"
+
+1510923186 source:g:\projet_1_final\code\m4\affichage\menu.c
+	"menu.h"
+
+1510923656 source:g:\projet_1_final\code\m4\affichage\donnees.c
+	"donnees.h"
+
+1510923244 source:d:\projet_1_final\code\m4\affichage\action.c
+	"donnees.h"
+	"action.h"
+
+1510847420 d:\projet_1_final\code\m4\affichage\donnees.h
+	<stdlib.h>
+	<stdio.h>
+
+1510739872 d:\projet_1_final\code\m4\affichage\action.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
+1511169976 source:d:\projet_1_final\code\m4\affichage\donnees.c
+	"donnees.h"
+
+1510672352 source:d:\projet_1_final\code\m4\affichage\main.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"action.h"
+	"menu.h"
+
+1510673602 d:\projet_1_final\code\m4\affichage\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"action.h"
+
+1510923186 source:d:\projet_1_final\code\m4\affichage\menu.c
+	"menu.h"
+
