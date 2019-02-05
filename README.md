@@ -5,9 +5,9 @@ Thématique : Création d'un détecteur de pouls avec affichage et traitement de
 
 Le projet est découpé en quatres modules :
 * [Cardio](/M1/main)
-* Cœur de LED
-* Lecture et Stockage
-* Processing
+* [Cœur de LED](/M2)
+* [Lecture et Stockage](/M3)
+* [Processing](/M4/AFFICHAGE)
 
 ## Créer avec
 
